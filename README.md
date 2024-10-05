@@ -19,7 +19,18 @@
             @tailwind utilities;
         ```
 
-###Adding Plugins and Dependancies 
+3.###Adding Plugins and Dependancies 
 ```
     npm install @reduxjs/toolkit react-redux react-router-dom react-icons react-chartjs-2 chart.js daisyui axios react-hot-toast @tailwindcss/line-clamp
+```
+
+
+
+
+###DAY-02
+
+1.###Configure Autoimport Sort
+```
+         npm i eslint-plugin-simple-import-sort
+         see video on youtube how to add sort import in vs code
 ```
