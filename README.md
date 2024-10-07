@@ -34,3 +34,15 @@
          npm i eslint-plugin-simple-import-sort
          see video on youtube how to add sort import in vs code
 ```
+
+
+###Day-03
+1.##Started Adding basic redux 
+
+
+
+###---------- DAY-04 ----------
+1.Creating the Helpers
+```
+        in the helpers we can create the axios instances
+```
